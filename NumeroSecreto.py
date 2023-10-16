@@ -25,7 +25,7 @@ while intentos <= 8:
         print("El numero elegido es mayor al numero secreto, vuelva a intentarlo")
         intentos += 1
     else:
-        print(f"BIEN HAZ ADIVINADO!!! Numero de intentos: {intentos}")
+        print(f"FELICITACIONES {nombre} HAZ ADIVINADO!!! Numero de intentos: {intentos}")
         break
 
 
