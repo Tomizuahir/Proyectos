@@ -1,4 +1,4 @@
-'''Proyecto dia 4'''
+'''Proyecto dia 4 '''
 from random import randint
 
 nombre = input("Ingrese su nombre: ")
