@@ -7,7 +7,6 @@ print(f"Bueno, {nombre}, he pensado un número entre 1 y 100, y tienes solo ocho
 
 numeroSecreto = randint(1,100)
 
-
 intentos = 0
 
 while intentos <= 8:
