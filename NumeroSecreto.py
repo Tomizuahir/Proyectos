@@ -12,7 +12,7 @@ intentos = 0
 
 while intentos <= 8:
     if intentos == 8:
-        print("Se ha agotado el numero de intentos, no encontraste el numero secreto")
+        print(f"Lo siento, se ha agotado el numero de intentos, el numero secreto era: {numeroSecreto}")
         break
     numero = int(input("Ingrese el numero secreto: "))
 
