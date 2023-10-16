@@ -6,7 +6,7 @@ nombre = input("Ingrese su nombre: ")
 print(f"Bueno, {nombre}, he pensado un número entre 1 y 100, y tienes solo ocho intentos para adivinar cuál crees que es el número")
 
 numeroSecreto = randint(1,100)
-print(f"numero secreto {numeroSecreto}")
+
 
 intentos = 0
 
